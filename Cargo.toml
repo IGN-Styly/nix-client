@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 clap = { version = "4.2.5", features = ["derive"] }
+eframe = "0.21.3"
+catppuccin-egui = "2.0"
+rfd = "0.11"
